@@ -1,0 +1,48 @@
+
+mole(cleared).png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 137, 237
+  orig: 137, 237
+  offset: 0, 0
+  index: -1
+clawBL
+  rotate: false
+  xy: 141, 43
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+clawBR
+  rotate: false
+  xy: 141, 43
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+clawFL
+  rotate: false
+  xy: 401, 184
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+clawFR
+  rotate: false
+  xy: 196, 80
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 141, 137
+  size: 258, 102
+  orig: 258, 102
+  offset: 0, 0
+  index: -1

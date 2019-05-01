@@ -1,0 +1,181 @@
+
+ContractorC.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C/arm
+  rotate: false
+  xy: 699, 64
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C/body
+  rotate: false
+  xy: 446, 33
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+C/cart
+  rotate: false
+  xy: 2, 19
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+C/head
+  rotate: true
+  xy: 146, 112
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+C/hip
+  rotate: false
+  xy: 806, 151
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+C/leftLeg
+  rotate: false
+  xy: 900, 4
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+C/material
+  rotate: true
+  xy: 371, 28
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+C/rightLeg
+  rotate: false
+  xy: 635, 43
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+C/tyre
+  rotate: false
+  xy: 806, 194
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+C2/arm2
+  rotate: false
+  xy: 724, 16
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C2/head2
+  rotate: true
+  xy: 278, 112
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+C3/arm3
+  rotate: false
+  xy: 787, 64
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C3/body3
+  rotate: false
+  xy: 509, 33
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+C3/cart2
+  rotate: false
+  xy: 125, 19
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+C3/head3
+  rotate: true
+  xy: 410, 112
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+C4/arm4
+  rotate: false
+  xy: 812, 16
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C4/head4
+  rotate: true
+  xy: 542, 112
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+C5/arm5
+  rotate: false
+  xy: 875, 73
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C5/braid5
+  rotate: true
+  xy: 635, 2
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+C5/head5
+  rotate: true
+  xy: 674, 112
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+C6/arm6
+  rotate: true
+  xy: 963, 33
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+C6/body6
+  rotate: false
+  xy: 572, 33
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+C6/cart3
+  rotate: false
+  xy: 248, 25
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+C6/head6
+  rotate: false
+  xy: 875, 121
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+H1/horseHead
+  rotate: true
+  xy: 2, 106
+  size: 145, 142
+  orig: 145, 142
+  offset: 0, 0
+  index: -1

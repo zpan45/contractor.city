@@ -1,0 +1,153 @@
+
+ContractorF.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F/body
+  rotate: false
+  xy: 682, 174
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+F/chainsaw
+  rotate: false
+  xy: 447, 171
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+F/head
+  rotate: false
+  xy: 195, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+F/leftArmLower
+  rotate: false
+  xy: 447, 131
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+F/leftArmUpper
+  rotate: true
+  xy: 868, 218
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+F/legs
+  rotate: false
+  xy: 758, 185
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+F/rightArmLower
+  rotate: false
+  xy: 128, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+F/rightArmUpper
+  rotate: false
+  xy: 910, 223
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+F/sawdust
+  rotate: false
+  xy: 572, 172
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+F/wood
+  rotate: false
+  xy: 2, 148
+  size: 191, 106
+  orig: 191, 106
+  offset: 0, 0
+  index: -1
+F/woodChunk
+  rotate: true
+  xy: 128, 50
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+F2/head2
+  rotate: false
+  xy: 321, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+F2/leftArmLower2
+  rotate: false
+  xy: 818, 216
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+F2/leftArmUpper2
+  rotate: false
+  xy: 547, 129
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+F2/rightArmLower2
+  rotate: false
+  xy: 158, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+F2/rightArmUpper2
+  rotate: false
+  xy: 957, 223
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+F3/head3
+  rotate: false
+  xy: 2, 21
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+F3/leftArmLower3
+  rotate: false
+  xy: 497, 132
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+F3/leftArmUpper3
+  rotate: false
+  xy: 585, 131
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+F3/rightArmLower3
+  rotate: true
+  xy: 623, 142
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+F3/rightArmUpper3
+  rotate: false
+  xy: 818, 183
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1

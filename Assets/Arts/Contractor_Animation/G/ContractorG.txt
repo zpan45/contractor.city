@@ -1,0 +1,195 @@
+
+ContractorG.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G/body
+  rotate: true
+  xy: 762, 181
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+G/dustL
+  rotate: false
+  xy: 674, 211
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+G/dustR
+  rotate: false
+  xy: 561, 168
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+G/hair
+  rotate: false
+  xy: 561, 202
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+G/head
+  rotate: true
+  xy: 2, 2
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+G/jackhammer
+  rotate: true
+  xy: 464, 161
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+G/leftArmLower
+  rotate: false
+  xy: 984, 204
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+G/leftArmUpper
+  rotate: true
+  xy: 454, 128
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+G/legs
+  rotate: true
+  xy: 256, 4
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+G/rightArmLower
+  rotate: true
+  xy: 350, 136
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+G/rightArmUpper
+  rotate: true
+  xy: 499, 128
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+G2/body2
+  rotate: true
+  xy: 840, 181
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+G2/head2
+  rotate: true
+  xy: 129, 2
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+G3/head3
+  rotate: false
+  xy: 130, 129
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+G3/leftArmLower3
+  rotate: true
+  xy: 402, 136
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+G3/leftArmUpper3
+  rotate: false
+  xy: 330, 91
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+G3/rightArmLower3
+  rotate: false
+  xy: 636, 150
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+G3/rightArmUpper3
+  rotate: false
+  xy: 363, 91
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+H2/LanceH2
+  rotate: false
+  xy: 255, 148
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+H2/bodyH2
+  rotate: false
+  xy: 256, 63
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+H2/haieH2
+  rotate: false
+  xy: 350, 174
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+H2/headH2
+  rotate: false
+  xy: 2, 128
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+H2/leftArmLowerH2
+  rotate: false
+  xy: 674, 159
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+H2/leftArmUpperH2
+  rotate: false
+  xy: 396, 91
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+H2/legsH2
+  rotate: false
+  xy: 918, 192
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+H2/rightArmLowerH2
+  rotate: false
+  xy: 712, 159
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+H2/rightArmUpperH2
+  rotate: true
+  xy: 330, 58
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1

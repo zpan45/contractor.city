@@ -1,0 +1,90 @@
+
+ContractorE.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E/eye
+  rotate: true
+  xy: 982, 75
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+E/head
+  rotate: true
+  xy: 258, 2
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+E2/eye2
+  rotate: false
+  xy: 385, 13
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+E2/hair2
+  rotate: false
+  xy: 650, 31
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+E2/hand2
+  rotate: false
+  xy: 844, 101
+  size: 136, 25
+  orig: 136, 25
+  offset: 0, 0
+  index: -1
+E2/head2
+  rotate: true
+  xy: 131, 3
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+E3/body3
+  rotate: true
+  xy: 511, 53
+  size: 73, 137
+  orig: 73, 137
+  offset: 0, 0
+  index: -1
+E3/eye3
+  rotate: false
+  xy: 844, 51
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+E3/hair3
+  rotate: false
+  xy: 747, 31
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+E3/hands3
+  rotate: false
+  xy: 844, 74
+  size: 136, 25
+  orig: 136, 25
+  offset: 0, 0
+  index: -1
+E3/head3
+  rotate: true
+  xy: 2, 3
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+E3/map3
+  rotate: false
+  xy: 385, 36
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1

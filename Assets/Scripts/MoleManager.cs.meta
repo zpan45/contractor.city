@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 376308248193044f59a7c0c7c5c0ecc5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundManager: {instanceID: 0}
+  - gameController: {instanceID: 0}
+  - shopPanelController: {instanceID: 0}
+  - jobDetailPanelController: {instanceID: 0}
+  - contractorsPanelController: {instanceID: 0}
+  - settingsPanelController: {instanceID: 0}
+  - minesweeperController: {instanceID: 0}
+  - moleCG: {instanceID: 0}
+  - moleSG: {instanceID: 0}
+  - moleBubble: {instanceID: 0}
+  - gameIcon: {instanceID: 0}
+  - moneyIcon: {instanceID: 0}
+  - rpIcon: {instanceID: 0}
+  - blankSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

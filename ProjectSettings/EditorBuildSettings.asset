@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/JobDetailScreen.unity
+    guid: 21b655590c6514aff9b1aeecfd9502ea
+  - enabled: 0
+    path: Assets/Scenes/ShopScreen.unity
+    guid: b5225410ccff14881be202b04b99529c
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4bbdf5d3ac2a641f2aea24cdacb93dba
+  - enabled: 0
+    path: Assets/Scenes/Integration_Code.unity
+    guid: 7314c88d2d8b94a3cb390f85e051b27d
+  - enabled: 1
+    path: Assets/Scenes/Integration_Spine.unity
+    guid: 791792e509ed4484682fef6d774c78f4
+  - enabled: 0
+    path: Assets/Scenes/MSMiniGame.unity
+    guid: a8ecfb1e2b8cd45889a74832cd01522c
+  m_configObjects: {}

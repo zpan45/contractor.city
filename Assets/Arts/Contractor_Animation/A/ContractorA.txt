@@ -1,0 +1,244 @@
+
+ContractorA.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/body
+  rotate: false
+  xy: 268, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A/head
+  rotate: false
+  xy: 299, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+A/leftArmLow
+  rotate: false
+  xy: 847, 123
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+A/leftArmUp
+  rotate: true
+  xy: 898, 129
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+A/legs
+  rotate: false
+  xy: 847, 179
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+A/rightArmLow
+  rotate: true
+  xy: 112, 3
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+A/rightArmUp
+  rotate: true
+  xy: 2, 2
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+A/shovel
+  rotate: false
+  xy: 2, 24
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+A2/body
+  rotate: false
+  xy: 112, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A2/head
+  rotate: false
+  xy: 2, 123
+  size: 149, 131
+  orig: 149, 131
+  offset: 0, 0
+  index: -1
+A3/body
+  rotate: false
+  xy: 190, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A3/head3
+  rotate: false
+  xy: 436, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+A3/leftArmLow3
+  rotate: false
+  xy: 938, 200
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+A3/leftArmUp3
+  rotate: false
+  xy: 938, 160
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+A3/rightArmLow3
+  rotate: true
+  xy: 580, 35
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+A3/rightArmUp3
+  rotate: true
+  xy: 57, 2
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+A4/body4
+  rotate: false
+  xy: 346, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A4/head4
+  rotate: false
+  xy: 573, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+A4/leftArmLow4
+  rotate: false
+  xy: 580, 67
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+A4/leftArmUp4
+  rotate: false
+  xy: 793, 83
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+A4/rightArmLow4
+  rotate: true
+  xy: 733, 91
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+A4/rightArmUp4
+  rotate: false
+  xy: 989, 201
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+A5/body5
+  rotate: false
+  xy: 424, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A5/head5
+  rotate: false
+  xy: 153, 123
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+A5/leftArmLow5
+  rotate: false
+  xy: 631, 67
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+A5/leftArmUp5
+  rotate: false
+  xy: 843, 83
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+A5/rightArmLow5
+  rotate: true
+  xy: 172, 3
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+A5/rightArmUp5
+  rotate: true
+  xy: 232, 13
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+A6/body6
+  rotate: false
+  xy: 502, 35
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+A6/head6
+  rotate: false
+  xy: 710, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+A6/leftArmLow6
+  rotate: false
+  xy: 682, 67
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+A6/leftArmUp6
+  rotate: false
+  xy: 938, 120
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+A6/rightArmLow6
+  rotate: true
+  xy: 640, 35
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+A6/rightArmUp6
+  rotate: true
+  xy: 733, 69
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
